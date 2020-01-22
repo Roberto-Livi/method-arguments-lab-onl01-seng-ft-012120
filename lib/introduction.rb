@@ -6,7 +6,7 @@ end
 introduction("Josh")
 
 def introduction2(name2 = "Ted", langauge = "Ruby")
-  puts "Hi #{name}, you are a #{language} programmer"
+  puts "Hi #{name2}, you are a #{language} programmer"
 end
 
 
