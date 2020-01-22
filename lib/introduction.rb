@@ -3,11 +3,11 @@ def introduction(name)
 end
 
 
-introduction(name2 = "Josh")
+introduction("Josh")
 
 def introduction2(name2 = "Ted", langauge = "Ruby")
   puts "Hi #{name}, you are a #{language} programmer"
 end
 
 
-introduction
+introduction("Sam")
