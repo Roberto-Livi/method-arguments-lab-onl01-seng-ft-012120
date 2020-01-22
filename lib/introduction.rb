@@ -10,4 +10,4 @@ def introduction2(name2 = "Ted", langauge = "Ruby")
 end
 
 
-introduction("Sam")
+introduction2("Sam")
