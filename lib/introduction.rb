@@ -3,8 +3,8 @@ def introduction(name)
 end
 
 
-def introductions(name2 = "Ted", langauge = "Ruby")
-  puts "Hi #{name2}, you are a #{language} programmer"
+def introductions(nametwo = "Ted", langauge = "Ruby")
+  puts "Hi #{nametwo}, you are a #{language} programmer"
 end
 
 
